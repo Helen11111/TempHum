@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color redRose
+color teal_200
+color teal_700
+color white
+drawable button
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id container
+id outputTemperature
+id schedule
+id textHum
+id textTemp
+layout activity_main
+layout graph_fragment
+layout main_fragment
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string outputTemperature
+string schedule
+style Theme.TempHum
+xml backup_rules
+xml data_extraction_rules
+xml network_config

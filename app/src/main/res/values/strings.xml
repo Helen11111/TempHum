@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TempHum</string>
+    <string name="schedule">Построить график</string>
+    <string name="outputTemperature"> Получить текущие показатели</string>
+</resources>

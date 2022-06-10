@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.temphum.app-mergeDebugResources-24:/layout/activity_main.xml",
+        "source": "com.example.temphum.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-mergeDebugResources-24:/layout/graph_fragment.xml",
+        "source": "com.example.temphum.app-main-27:/layout/graph_fragment.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-mergeDebugResources-24:/layout/main_fragment.xml",
+        "source": "com.example.temphum.app-main-27:/layout/main_fragment.xml"
+    }
+]

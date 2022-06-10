@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.example.temphum.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/drawable_button.xml.flat",
+        "source": "com.example.temphum.app-main-27:/drawable/button.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.temphum.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/xml_backup_rules.xml.flat",
+        "source": "com.example.temphum.app-main-27:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.temphum.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.temphum.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/xml_network_config.xml.flat",
+        "source": "com.example.temphum.app-main-27:/xml/network_config.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/layout_graph_fragment.xml.flat",
+        "source": "com.example.temphum.app-main-27:/layout/graph_fragment.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/layout_main_fragment.xml.flat",
+        "source": "com.example.temphum.app-main-27:/layout/main_fragment.xml"
+    },
+    {
+        "merged": "com.example.temphum.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.temphum.app-main-27:/xml/data_extraction_rules.xml"
+    }
+]
